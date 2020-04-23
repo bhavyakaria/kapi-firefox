@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Kapi - Copy that!",
+    "version": "1.0",
+    "description": "Adds a red border to all webpages matching mozilla.org.",
+    "icons": {
+        "48": "icons/border-48.png"
+    },
+    "browser_action": {
+        "default_title": "Kapi - Copy that!",
+        "default_icon": "kapi-logo.png",
+        "default_popup": "popup.html"
+    }
+}
